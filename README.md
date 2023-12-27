@@ -2,7 +2,7 @@
 
 I am a full-time PhD student working on building resource-efficient, adapatable and accurate computer systems. I take inspiration from the cognitive sciences to enable machine learning solutions for use within the system software layer.
 
-I have interned and worked full tim at Nvidia previously, primarily on compilers and virtual memory management for tiered memory in heterogenous systems(systems with different compute cores such as CPUs and GPUs).
+I have interned and worked full time at Nvidia previously, primarily on compilers and virtual memory management for tiered memory in heterogenous systems(systems with different compute cores such as CPUs and GPUs).
 
 I am on a lookout for interesting full-time opportunities! You can read more about me and my research on my [website](https://joshi-ketaki.github.io/).
 I am also available at ketaki.joshi@yale.edu!
