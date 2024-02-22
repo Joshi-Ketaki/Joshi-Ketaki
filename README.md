@@ -1,11 +1,11 @@
 ### Hi there 👋 , I am Ketaki Joshi
 
-I am a research student at Yale working on building resource-efficient, adaptable, and accurate computer systems. I take inspiration from the cognitive sciences to enable machine learning solutions for use within the system software layer.
 
-I have interned and worked full-time at Nvidia previously, primarily on compilers and virtual memory management for tiered memory in heterogeneous systems(systems with different compute cores such as CPUs and GPUs).
+I am on the market for interesting full-time opportunities! You can read more about me and my research on my [website](https://joshi-ketaki.github.io/).
+I am also available at joshiketakir@gmail.com!
 
-I am on the lookout for interesting full-time opportunities! You can read more about me and my research on my [website](https://joshi-ketaki.github.io/).
-I am also available at ketaki.joshi@yale.edu!
+
+I have interned and worked full-time at Nvidia previously, primarily on compilers and virtual memory management for tiered memory in heterogeneous systems(systems with different compute cores such as CPUs and GPUs). I have been a researcher at Yale working on building resource-efficient, adaptable, and accurate computer systems. I take inspiration from the cognitive sciences to enable machine learning solutions for use within the system software layer.
 
 Below is a collection of some of my repositories which I can make public. Note, that I have a few private repositories which include the development of a toy compiler, asynchronous system calls, etc. that were implemented when I was a Teaching Assistant or completed as assignments when I was a graduate student at Yale. These cannot be made public as these are university resources. I can share these samples on request.
 
