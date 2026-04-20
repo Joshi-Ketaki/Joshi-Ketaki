@@ -1,7 +1,7 @@
 ### Hi there 👋 , I am Ketaki Rajiv Joshi
 
 I am a Sr. Deep Learning Performance Architect at Nvidia. 
-I am interested in compilers and memory management and have worked in these domains as well.
+I have worked with compilers and memory management as well.
 
 I enjoy reading and learning new dishes.
 <!--
