@@ -3,10 +3,7 @@
 
 You can read more about me on my [website](https://joshi-ketaki.github.io/).
 
-I am a Sr. Deep Learning Performance Architect at Nvidia.
-
-Below is a collection of some of my repositories which I can make public. Note, that I have a few private repositories which include the development of a toy compiler, asynchronous system calls, etc. that were implemented during my time at Yale. These cannot be made public as these are university resources.
-
+I am a Sr. Deep Learning Performance Architect at Nvidia. 
 <!--
 **Joshi-Ketaki/Joshi-Ketaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
